@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#D0C8A8'
+    - '#987018'
+    - '#A08848'
+    - '#D0A020'
+    - '#E0D8A8'
+  brandStrength: 0.334265
+  lightness: 0.552152
+  rhythmicContrast: 0.980481
+  saturation: 0.084157
+cta: {}
+layout_spectrum: 0.907072
+name: OlivaPro
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.126645
